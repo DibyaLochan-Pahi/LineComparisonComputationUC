@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\bin\Debug\netcoreapp3.1\uc3LineComparison.exe
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\bin\Debug\netcoreapp3.1\uc3LineComparison.deps.json
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\bin\Debug\netcoreapp3.1\uc3LineComparison.runtimeconfig.json
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\bin\Debug\netcoreapp3.1\uc3LineComparison.runtimeconfig.dev.json
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\bin\Debug\netcoreapp3.1\uc3LineComparison.dll
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\bin\Debug\netcoreapp3.1\uc3LineComparison.pdb
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.AssemblyInfo.cs
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.dll
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.pdb
+C:\Users\hp\Desktop\121\uc3LineComparison\uc3LineComparison\obj\Debug\netcoreapp3.1\uc3LineComparison.genruntimeconfig.cache
