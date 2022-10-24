@@ -8,7 +8,7 @@ namespace uc2ComparisonTwoLine
         public Program()
         {
             Console.WriteLine("Welcome To Line Comparison Computation Program");
-            Console.WriteLine("-----------------------------------------------");
+            Console.WriteLine("------------------------------------------------");
         }
 
         // Method for Calculating Distance of Line
@@ -48,7 +48,7 @@ namespace uc2ComparisonTwoLine
             var b2 = Convert.ToDouble(Console.ReadLine());
             var finalResult2 = Distance(a1, b1, a2, b2);
             
-            //Comparison Between Two Line
+            //Comparison Between Two Lines
 
             if (finalResult1 == finalResult2)
             {
