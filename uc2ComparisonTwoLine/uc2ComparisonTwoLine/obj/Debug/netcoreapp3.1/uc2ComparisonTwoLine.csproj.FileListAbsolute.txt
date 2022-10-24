@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\bin\Debug\netcoreapp3.1\uc2ComparisonTwoLine.exe
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\bin\Debug\netcoreapp3.1\uc2ComparisonTwoLine.deps.json
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\bin\Debug\netcoreapp3.1\uc2ComparisonTwoLine.runtimeconfig.json
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\bin\Debug\netcoreapp3.1\uc2ComparisonTwoLine.runtimeconfig.dev.json
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\bin\Debug\netcoreapp3.1\uc2ComparisonTwoLine.dll
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\bin\Debug\netcoreapp3.1\uc2ComparisonTwoLine.pdb
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.AssemblyInfo.cs
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.dll
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.pdb
+C:\Users\hp\Desktop\GitHub\LineComparisonProblems\uc2ComparisonTwoLine\uc2ComparisonTwoLine\obj\Debug\netcoreapp3.1\uc2ComparisonTwoLine.genruntimeconfig.cache
