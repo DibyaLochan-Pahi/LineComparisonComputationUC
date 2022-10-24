@@ -48,7 +48,7 @@ namespace uc3LineComparison
             var b2 = Convert.ToDouble(Console.ReadLine());
             var finalResult2 = Distance(a1, b1, a2, b2);
 
-            //Comparison Between Two Lines
+            //Comparison Between Two Line
 
             if (finalResult1 > finalResult2)
             {
@@ -56,7 +56,7 @@ namespace uc3LineComparison
             }
             else if(finalResult1 < finalResult2)
             {
-                Console.WriteLine("Line-1 ({0})is Less than Line-2 ({1})",finalResult1,finalResult2);
+                Console.WriteLine("Line-1 ({0}) is Less than Line-2 ({1})",finalResult1,finalResult2);
             }
             else
             {
